@@ -11,6 +11,7 @@
 * Accuracy assessment of digital elevation models
 1. Miliaresis G., Paraschou Ch., 2005. Vertical accuracy of the SRTM DTED Level 1 of Crete. Int. J. of Applied Earth Observation & GeoInformation 7(1):49-59. doi:10.1016/j.jag.2004.12.001
 1. Miliaresis G., 2007. An upland object based modeling of the vertical accuracy of the SRTM-1 elevation dataset. Journal of Spatial Sciences, 52(1):13-29.
+1. Miliaresis G., 2008. The Landcover Impact on the Aspect/Slope Accuracy Dependence of the SRTM-1 Elevation Data for the Humboldt Range. Sensors, 8(5):3134-3149. doi:10.3390/s8053134. 
 1. Miliaresis G., Delikaraoglou D., 2009. Effects of Percent Tree Canopy Density and DEM Mis-registration to SRTM/NED Vegetation Height Estimates. Remote Sensing. 1(2):36-49 doi:10.3390/rs1020036 
 1. Miliaresis G., Paraschou Ch.V., 2011. An evaluation of the accuracy of the ASTER GDEM and the role of stack number: A case study of Nisiros Island, Greece. Remote Sensing Letters  2(2):127-135  doi: 10.1080/01431161.2010.503667 
 * Volcanic geomorphometry
@@ -20,6 +21,8 @@
 1. Miliaresis G., Kokkas N. 2007. Segmentation & Object Based Classification for the Extraction of the Building Class from LIDAR DEMs. Computers & Geosciences, 33(8):1076-1087. doi:10.1016/j.cageo.2006.11.012
 * Extra-Terrestrial landscapes
 1. Miliaresis G., Kokkas N. 2004. Segmentation and terrain modeling of extra-terrestrial chasmata. Journal of Spatial Sciences, 49(2): 89-99
+* Landslides
+1. Miliaresis G, Sabatakakis N, Koukis G, 2005.Terrain pattern recognition & spatial decision for regional slope stability studies. Natural Resources Research, 14(2):91-100. http://doi.org/10.1007/s11053-005-6951-3  
 * Fluvial geomorphometry
 1. Miliaresis, G.Ch., and D.P. Argialas, 2000. Extraction & Delineation of Alluvial Fans from DΕΜs & Landsat TM Images. Photogrammetric Engineering & Remote Sensing, 66(9):1093-1101. doi: 0099-1112/00/6609-109 
 1. Miliaresis, G.Ch., 2001. Extraction of Bajadas from DEMs & Satellite Imagery. Computers & Geosciences 27(10):1157-1167. doi: 10.1016/S0098-3004(01)00032-2 
