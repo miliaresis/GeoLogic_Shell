@@ -26,7 +26,7 @@
 * Fluvial geomorphometry
 1. Miliaresis, G.Ch., and D.P. Argialas, 2000. Extraction & Delineation of Alluvial Fans from DΕΜs & Landsat TM Images. Photogrammetric Engineering & Remote Sensing, 66(9):1093-1101. doi: 0099-1112/00/6609-109 
 1. Miliaresis, G.Ch., 2001. Extraction of Bajadas from DEMs & Satellite Imagery. Computers & Geosciences 27(10):1157-1167. doi: 10.1016/S0098-3004(01)00032-2 
-* Tectonic geomorphometry of monutains
+* Tectonic geomorphometry of mountains
 1. Miliaresis, G. Ch., and D.P. Argialas, 1999. Segmentation of Physiographic Features from the Global Digital Elevation Model/GTOPO30. Computers & Geosciences, 25(7):715-728. doi:10.1016/S0098-3004(99)00025-4
 1. Miliaresis, G. Ch., 2001. Geomorphometric Mapping of Zagros Ranges at Regional Scale. Computers & Geosciences, 27(7):775-786. doi: 10.1016/S0098-3004(00)00168-0 
 1. Miliaresis, G. Ch., Argialas, D.P. 2002. Quantitative Representation of Mountain Objects Extracted from the GTOPO30 DEM. Int. Journal of Remote Sensing, 23(5):949-964. doi:10.1080/01431160110070690 
