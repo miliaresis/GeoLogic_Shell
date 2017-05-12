@@ -17,6 +17,9 @@
 * Volcanic geomorphometry
 1. Miliaresis G. , Ventura G., Vilardo G., 2009. Terrain modeling of the complex volcanic terrain of Ischia Island (Italy). Canadian Journal of Remote Sensing. 35(4):385-398, doi: 10.1007/s10661-008-0237-2
 1. Zouzias D., Miliaresis G., Seymour, K.ST., 2011, Interpretation of Nisyros Volcanic Terrain using Land Surface Parameters Generated from the ASTER Global DEM. Journal of Volcanology & Geothermal Research, 200(3-4):159-170. doi:10.1016/j.jvolgeores.2010.12.012
+* Terrain characterization
+1. Miliaresis G., 2008. Quantification of Terrain Processes. Lecture Notes in Geoinformation & Chartography (LNG&C),XIV, 13-28. DOI:  10.1007/978-3-540-77800-4_2
+1. Miliaresis G., 2009. The terrain signatures of administrative units: a tool for environmental assessment. Environmental Monitoring & Assessment, 150(1-4):386-396. doi:10.1007/s10661-008-0237-2 
 * City modelling
 1. Miliaresis G., Kokkas N. 2007. Segmentation & Object Based Classification for the Extraction of the Building Class from LIDAR DEMs. Computers & Geosciences, 33(8):1076-1087. doi:10.1016/j.cageo.2006.11.012
 * Extra-Terrestrial landscapes
