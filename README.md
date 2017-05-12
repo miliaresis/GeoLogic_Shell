@@ -8,8 +8,7 @@
  ![Example of main menu](https://github.com/miliaresis/GeoLogic_Shell/blob/master/recipes.PNG)
 * It should be available from the web site of the International Society for Mathematical Geology, too! Look for v27-10-05.zip & v33-08-07.zip within the LINKS TO PUBLISHED PROGRAMs CODE (https://www.iamg.org/iamg-publications/computers-geosciences/volumes.html )  
 # Used in publications (selected):
-1. Miliaresis G., 2016. An Unstandardized Selective Variance Reduction Script for Elevation, Latitude & Longitude Decorrelation Stretch of  Multi-temporal LST Imagery. Modeling Earth Systems & Environment, 2, (1) (Article 41), 1-13 p. DOI: 10.1007/s40808-016-0103-0. Available for free  at http://link.springer.com/article/10.1007/s40808-016-0103-0
-2. Miliaresis G., 2016. Revealing the precipitation dependency of regional in time and in space thermal anomaly peaks in SW USA. Modeling Earth Systems & Environment, vol. 2, no 1 (article 34), 1-10 p. DOI: 10.1007/s40808-016-0093-y  Available for free at: http://link.springer.com/article/10.1007/s40808-016-0093-y
+* Accuracy assessment of digital elevation models
 3. Miliaresis G., Paraschou Ch.V., 2011. An evaluation of the accuracy of the ASTER GDEM and the role of stack number: A case study of Nisiros Island, Greece. Remote Sensing Letters  2(2):127-135  doi: 10.1080/01431161.2010.503667 
 4. Zouzias D., Miliaresis G., Seymour, K.ST., 2011, Interpretation of Nisyros Volcanic Terrain using Land Surface Parameters Generated from the ASTER Global DEM. Journal of Volcanology & Geothermal Research, 200(3-4):159-170. doi:10.1016/j.jvolgeores.2010.12.012
 5. Miliaresis G. , Ventura G., Vilardo G., 2009. Terrain modeling of the complex volcanic terrain of Ischia Island (Italy). Canadian Journal of Remote Sensing. 35(4):385-398, doi: 10.1007/s10661-008-0237-2
