@@ -7,7 +7,7 @@
 2. G. Ch. Miliaresis & N. Kokkas, 2007 Segmentation and object-based classification for the extraction of the building class from LIDAR DEMs Computers & Geosciences 33,(8) 1076-1087
  ![Example of main menu](https://github.com/miliaresis/GeoLogic_Shell/blob/master/recipes.PNG)
 * It should be available from the web site of the International Society for Mathematical Geology, too! Look for v27-10-05.zip & v33-08-07.zip within the LINKS TO PUBLISHED PROGRAMs CODE (https://www.iamg.org/iamg-publications/computers-geosciences/volumes.html )  
-# Used in publications (selected):
+# Selected publications:
 * Accuracy assessment of digital elevation models
 1. Miliaresis G., Paraschou Ch., 2005. Vertical accuracy of the SRTM DTED Level 1 of Crete. Int. J. of Applied Earth Observation & GeoInformation 7(1):49-59. doi:10.1016/j.jag.2004.12.001
 1. Miliaresis G., 2007. An upland object based modeling of the vertical accuracy of the SRTM-1 elevation dataset. Journal of Spatial Sciences, 52(1):13-29.
