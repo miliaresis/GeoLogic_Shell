@@ -18,7 +18,7 @@
 1. Zouzias D., Miliaresis G., Seymour, K.ST., 2011, Interpretation of Nisyros Volcanic Terrain using Land Surface Parameters Generated from the ASTER Global DEM. Journal of Volcanology & Geothermal Research, 200(3-4):159-170. doi:10.1016/j.jvolgeores.2010.12.012
 * City modelling
 1. Miliaresis G., Kokkas N. 2007. Segmentation & Object Based Classification for the Extraction of the Building Class from LIDAR DEMs. Computers & Geosciences, 33(8):1076-1087. doi:10.1016/j.cageo.2006.11.012
-Extra-Terrestrial landscapes
+* Extra-Terrestrial landscapes
 1. Miliaresis G., Kokkas N. 2004. Segmentation and terrain modeling of extra-terrestrial chasmata. Journal of Spatial Sciences, 49(2): 89-99
 * Fluvial geomorphometry
 1. Miliaresis, G.Ch., and D.P. Argialas, 2000. Extraction & Delineation of Alluvial Fans from DΕΜs & Landsat TM Images. Photogrammetric Engineering & Remote Sensing, 66(9):1093-1101. doi: 0099-1112/00/6609-109 
