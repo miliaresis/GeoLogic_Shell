@@ -3,6 +3,7 @@
 * Used it in papers of mine in between 1999 and 2011 ( http://orcid.org/0000-0001-8395-435X ). 
 # Data
 * Miliaresis G. 2018. LIDAR URBAN DEM at 1-m (London, U.K.). Mendeley Data, v.1,  http://dx.doi.org/10.17632/jnr4czy52b.1 
+# Example output images
  ![Example of output images](https://github.com/miliaresis/GeoLogic_Shell/blob/master/geologic_shell.png)
 * There are 2 versions, part of the publications:
 1. G.Ch. Miliaresis 2001. Extraction of bajadas from digital elevation models and satellite imagery. Computers & Geosciences 27 (10) 1159-1169
